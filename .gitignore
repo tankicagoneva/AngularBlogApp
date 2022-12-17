@@ -45,5 +45,6 @@ testem.log
 Thumbs.db
 
 /src/environments/environment.localhost_default.ts
+.env 
 
-
+.vercel
